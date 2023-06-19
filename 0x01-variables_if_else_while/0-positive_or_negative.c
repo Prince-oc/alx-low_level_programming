@@ -23,7 +23,7 @@ int main(void)
 	}
 	else
 	{
-		 printf("0 is zero\n");
+		 printf("%d is zero\n");
 	}
 	return (0);
 }
