@@ -1,6 +1,6 @@
 #include "main.h"
 
-/** _print_rev_recursion- prints a string in reverse.
+/** _print_rev_recursion- prints a string in reverse in recursion
  * @s; spring to print 
  *
  * Return; nothing to return
@@ -17,7 +17,7 @@ void _print_rev_recursion(char *s);
 	      {_putchar(s(0))
 
     }
-     endif(s(0))
+  
  }
     
    
